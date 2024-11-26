@@ -6,7 +6,6 @@ Team member (팀)
 <div>
 <a href="https://github.com/youngseok-1"><img src="https://github.com/user-attachments/assets/b2b48a3c-a03f-41ee-b9e3-b91a29257bc9" alt="조영석"></a>
     
-![Static Badge](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%A1%B0%EC%98%81%EC%84%9D-yellow?style=for-the-badge&labelColor=black)
 
 - 호텔 런드리
     
