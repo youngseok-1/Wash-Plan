@@ -5,6 +5,7 @@ Team member (팀)
 <div align="center" display:"inline-block">
 <div>
 <a href="https://github.com/youngseok-1"><img src="https://github.com/user-attachments/assets/b2b48a3c-a03f-41ee-b9e3-b91a29257bc9" alt="조영석"></a>
+프로젝트 매니저 : 조영석
     
 
 - 호텔 런드리
