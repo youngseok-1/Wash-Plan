@@ -239,4 +239,4 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 #### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
 
-![footer](https://capsule-render.vercel.app/api?type=transparent&text=감사합니다.&animation=twinkling&&section=footer&size=15)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Thank%20You!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=PPal-Ajo&descAlignY=70)
