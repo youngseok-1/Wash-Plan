@@ -22,7 +22,7 @@
 - 불필요한 기다림과 시간제약 해소
 
 ## 3. 팀
-<div align="center" display:"inline-block">
+<div justify-content: space-between; align-items: center;>
 <div>
 <a href="https://github.com/youngseok-1"><img src="https://github.com/user-attachments/assets/b2b48a3c-a03f-41ee-b9e3-b91a29257bc9" alt="조영석"></a>
     
