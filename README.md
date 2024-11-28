@@ -1,7 +1,6 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=PPal-Ajo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wash%20Plan&descAlignY=60&descAlign=62"/>
 </p>
-# Wash Plan Project Description
 
 ## 목차
 ### 1. [개요](#1-개요)
@@ -101,12 +100,12 @@ NAV 폰트 : [Do Hyeon](https://fonts.google.com/specimen/Do+Hyeon/)
 MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 
-## 5. 팀 가이드라인 & 규칙
+## 5.규칙
 ### [Team Rules](https://github.com/PPal-Ajo/Wash-Plan/blob/main/.github/team_resources/team_rules/team_rules.md)
 
-#### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
 
-## 6. Project work division (업무 구분) / 수정예정
+
+## 6. 업무 구분 / 수정예정
 ### 조영석
 #### 관리자 페이지 - 4가지 기능
 #### 유저 관리 - 유저 검색, 유저 닉네임 수정(부적절한 닉네임 우려), 유저 탈퇴(문제 유저)
@@ -134,9 +133,8 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 #### DB 관리자 - DB 관리
 
 
-#### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
 
-## 7. Development period (개발 기간)
+## 7.개발 기간
 ### 전체 개발 기간
 24-10-17 ~ 11-19
 ### 기획 (초안)
@@ -152,9 +150,9 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 ### 최종 테스트 및 디버깅
 24-11-17 ~ 24-11-19
 
-#### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
 
-## 8. Introducing the project feature (주요 기능 소개)
+
+## 8.주요 기능 소개
 
 ### Main page
 - 기본적으로 Nav bar가 상단에 존재하며 사이트 소개, 회원가입, 로그인, 로그아웃, MBTI 검사, 게시글로 이동, 마이페이지 등의 기능을 수행합니다.
@@ -237,6 +235,5 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 - 관리자는 신고된 사용자가 규정을 어겼다고 판단했을 경우 패널티를 줄 수 있습니다.
 - 관리자는 신고된 사용자가 적법하다고 판단했을 경우 신고를 취소하거나 이미 처리된 신고에 한해서 신고를 제거할 수 있습니다.
 
-#### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
 
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Thank%20You!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=PPal-Ajo&descAlignY=70)
