@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=PPal-Ajo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wash%20Plan&descAlignY=60&descAlign=62"/>
 </p>
 
-## 목차
+### 목차
 ### 1. [개요](#1-개요)
 ### 2. [목적](#2-목적)
 ### 3. [팀](#3-팀)
@@ -134,6 +134,7 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 [목차로](#목차)
 
 </div>
+
 ## 6. 업무구분
 
 ### 조영석
