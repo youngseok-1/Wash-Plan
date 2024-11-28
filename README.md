@@ -14,7 +14,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=transparent&text=WashPlan&animation=twinkling&&section=footer&size=15)
 
-##1. 개요
+## 1. 개요
 - 저희 팀이 만든 워시플랜 웹사이트는 무인세탁소를 빠르고 간단하게 예약할수 있는 사이트를 만들었습니다
 
 <div align="right">
@@ -23,7 +23,7 @@
 
 </div>
 
-##2. 목적
+## 2. 목적
 - 무인세탁소를 이용할 때 효율적이고 편리하게 이용 가능하도록 설계
 - 불필요한 기다림과 시간제약 해소
 
@@ -33,7 +33,7 @@
 
 </div>
 
-##3. 팀
+## 3. 팀
 <div align="center" display:"inline-block">
 <div>
 <a href="https://github.com/youngseok-1"><img src="https://github.com/user-attachments/assets/b2b48a3c-a03f-41ee-b9e3-b91a29257bc9" alt="조영석"></a>
