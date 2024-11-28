@@ -46,7 +46,7 @@
 </div>
 
 
-## 4.개발환경
+## 4. 개발환경
 <h2>기술 스택</h2>
 <div>
     <h3>Frontend</h3>
@@ -100,12 +100,12 @@ NAV 폰트 : [Do Hyeon](https://fonts.google.com/specimen/Do+Hyeon/)
 MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 
-## 5.규칙
+## 5. 규칙
 ### [Team Rules](https://github.com/PPal-Ajo/Wash-Plan/blob/main/.github/team_resources/team_rules/team_rules.md)
 
 
 
-## 6.업무구분
+## 6. 업무구분
 ### 조영석
 
 
@@ -117,7 +117,7 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 
 
-## 7.개발기간
+## 7. 개발기간
 ### 전체 개발 기간
 24-11-20 ~ 
 
@@ -126,7 +126,7 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 
 
-## 8.주요기능소개
+## 8. 주요기능소개
 ### **1. 회원 관리**
 
 - **회원가입 및 로그인**
