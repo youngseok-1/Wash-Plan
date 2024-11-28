@@ -27,6 +27,12 @@
 - 무인세탁소를 이용할 때 효율적이고 편리하게 이용 가능하도록 설계
 - 불필요한 기다림과 시간제약 해소
 
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
+
 ## 3. 팀
 <div align="center" display:"inline-block">
 <div>
@@ -51,6 +57,11 @@
 
 </div>
 
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
 
 ## 4. 개발환경
 <h2>기술 스택</h2>
@@ -106,11 +117,22 @@ NAV 폰트 : [Do Hyeon](https://fonts.google.com/specimen/Do+Hyeon/)
 MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
+
+
 ## 5. 규칙
 ### [Team Rules](https://github.com/PPal-Ajo/Wash-Plan/blob/main/.github/team_resources/team_rules/team_rules.md)
 
 
+<div align="right">
+  
+[목차로](#목차)
 
+</div>
 ## 6. 업무구분
 ### 조영석
 
@@ -122,6 +144,11 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 
 
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
 
 ## 7. 개발기간
 ### 전체 개발 기간
@@ -131,6 +158,11 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 24-11-20 ~ 
 
 
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
 
 ## 8. 주요기능소개
 ### **1. 회원 관리**
@@ -217,7 +249,7 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
     - 관리자는 상세조회에서 문의답변을 남길 수 있다.
  
 
-  <div align="right">
+<div align="right">
   
 [목차로](#목차)
 
