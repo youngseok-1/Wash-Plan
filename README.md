@@ -32,9 +32,9 @@
 
 
 <div>
-<a href="https://github.com/manbeao"><img src="https://github.com/user-attachments/assets/f77dcc53-2e80-4646-b23e-30d3f6c7dc97" alt="이은서"></a>
+<a href="https://github.com/suwanpp"><img src="https://avatars.githubusercontent.com/u/177711372?v=4" alt="박수완"></a>
 
-![Static Badge](https://img.shields.io/badge/DB%20%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%9D%B4%EC%9D%80%EC%84%9C-skyblue?style=for-the-badge&labelColor=pink)
+데이터베이스 관리자 : 박수완
 
 </div>
 
