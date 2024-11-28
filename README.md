@@ -3,9 +3,9 @@
 
 ## 목차
 ### 1. [개요](#1-개요)
-### 2. [목적]
-### 3. [팀 소개]
-### 4. [개발 환경]
+### 2. [목적](#2-목적)
+### 3. [팀](#3-팀)
+### 4. [개발환경](#4-개발환경)
 ### 5. [팀 규칙]
 ### 6. [업무 구분]
 ### 7. [개발 기간]
@@ -20,7 +20,7 @@
 - 무인세탁소를 이용할 때 효율적이고 편리하게 이용 가능하도록 설계
 - 불필요한 기다림과 시간제약 해소
 
-## 3. 팀 소개
+## 3. 팀
 <div align="center" display:"inline-block">
 <div>
 <a href="https://github.com/youngseok-1"><img src="https://github.com/user-attachments/assets/b2b48a3c-a03f-41ee-b9e3-b91a29257bc9" alt="조영석"></a>
@@ -45,58 +45,76 @@
 </div>
 
 
-## 4.개발 환경
+## 4.개발환경
+<h2><img src="book_icon.png" alt="Book Icon" style="width: 20px; vertical-align: middle;"> 기술 스택</h2>
+<div>
+    <h3>Frontend</h3>
+    <ul>
+        <li><img src="react_icon.png" alt="React Icon" style="width: 20px; vertical-align: middle;"> React</li>
+        <li><img src="html_icon.png" alt="HTML5 Icon" style="width: 20px; vertical-align: middle;"> HTML5</li>
+        <li><img src="css_icon.png" alt="CSS3 Icon" style="width: 20px; vertical-align: middle;"> CSS3</li>
+        <li><img src="javascript_icon.png" alt="JavaScript Icon" style="width: 20px; vertical-align: middle;"> JavaScript</li>
+    </ul>
+</div>
 
-📚 기술 스택
+<div>
+    <h3>Backend</h3>
+    <ul>
+        <li><img src="springboot_icon.png" alt="Spring Boot Icon" style="width: 20px; vertical-align: middle;"> Spring Boot</li>
+        <li><img src="java_icon.png" alt="Java Icon" style="width: 20px; vertical-align: middle;"> Java</li>
+    </ul>
+</div>
 
-Frontend
+<div>
+    <h3>Database</h3>
+    <ul>
+        <li><img src="mysql_icon.png" alt="MySQL Icon" style="width: 20px; vertical-align: middle;"> MySQL</li>
+    </ul>
+</div>
 
-	•React
-	•HTML5
-	•CSS3
-	•JavaScript
+<div>
+    <h3>Development Environment</h3>
+    <ul>
+        <li><img src="intellij_icon.png" alt="IntelliJ Icon" style="width: 20px; vertical-align: middle;"> IntelliJ IDEA</li>
+    </ul>
+</div>
 
-Backend
+<hr/>
 
-	•Spring Boot
-	•Java
+<h2><img src="tools_icon.png" alt="Tools Icon" style="width: 20px; vertical-align: middle;"> 협업 툴</h2>
+<div>
+    <h3>Communication</h3>
+    <ul>
+        <li><img src="kakao_icon.png" alt="Kakao Icon" style="width: 20px; vertical-align: middle;"> 카카오톡</li>
+        <li><img src="discord_icon.png" alt="Discord Icon" style="width: 20px; vertical-align: middle;"> 디스코드</li>
+    </ul>
+</div>
 
-Database
+<div>
+    <h3>Documentation & Planning</h3>
+    <ul>
+        <li><img src="notion_icon.png" alt="Notion Icon" style="width: 20px; vertical-align: middle;"> 노션</li>
+        <li><img src="figma_icon.png" alt="Figma Icon" style="width: 20px; vertical-align: middle;"> 피그마</li>
+    </ul>
+</div>
 
-	•MySQL
-
-Development Environment
-
-	•IntelliJ IDEA
- <hr/>
- 🛠️ 협업 툴
-
-Communication
-
-	•카카오톡
-	•디스코드
-
-Documentation & Planning
-
-	•노션
-	•피그마
-
-
-Version Control
-
-	•GitHub
+<div>
+    <h3>Version Control</h3>
+    <ul>
+        <li><img src="github_icon.png" alt="GitHub Icon" style="width: 20px; vertical-align: middle;"> GitHub</li>
+    </ul>
+</div>
 
 ### 사용 폰트
 로고 폰트 : [Raleway](https://fonts.google.com/specimen/Raleway/)
 
 NAV 폰트 : [Do Hyeon](https://fonts.google.com/specimen/Do+Hyeon/)
 
-MAIN 폰트[Gmarket Sans](https://corp.gmarket.com/fonts/)
-#### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
+MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
+
 
 ## 5. 팀 가이드라인 & 규칙
-### [Team Guideline](https://github.com/MergePing/NamHoJung/blob/main/.github/team_resources/team_rules/team_guideline.md)
-### [Team Rules](https://github.com/MergePing/NamHoJung/blob/main/.github/team_resources/team_rules/team_rules.md)
+### [Team Rules](https://github.com/PPal-Ajo/Wash-Plan/blob/main/.github/team_resources/team_rules/team_rules.md)
 
 #### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
 
