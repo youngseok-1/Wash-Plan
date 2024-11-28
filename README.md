@@ -167,7 +167,7 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 </div>
 
-### 8. 주요기능소개
+## 8. 주요기능소개
 ### **1. 회원 관리**
 
 - **회원가입 및 로그인**
