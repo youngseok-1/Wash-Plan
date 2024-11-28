@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&section=header&text=MergePingTeam&animation=fadeIn&rotate=5)
+
 # Project Description
 
 ## 목차
