@@ -2,7 +2,7 @@
 # Project Description
 
 ## 목차
-### 1. [개요](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#1-over-view-of-the-project-%EA%B0%9C%EC%9A%94)
+### 1. [개요](#개요)
 ### 2. [목적](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#2-goals-of-the-project-%EB%AA%A9%EC%A0%81)
 ### 3. [팀 소개](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#3-team-member-%ED%8C%80)
 ### 4. [개발 환경](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#4-development-environment-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD--%EC%88%98%EC%A0%95%EC%98%88%EC%A0%95)
