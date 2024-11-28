@@ -88,6 +88,7 @@
 <div>
     <h3>Development Environment</h3>
     <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
+    <img src="https://img.shields.io/badge/visualstudiocode-blue?style=for-the-badge&logo=vscode&logoColor=white">
 </div>
 
 <hr/>
