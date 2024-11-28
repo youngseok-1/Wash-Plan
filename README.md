@@ -1,81 +1,97 @@
 
-# Project Description
+# Wash Plan Project Description
 
 ## 목차
-### 1. [개요](#개요)
-### 2. [목적](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#2-goals-of-the-project-%EB%AA%A9%EC%A0%81)
-### 3. [팀 소개](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#3-team-member-%ED%8C%80)
-### 4. [개발 환경](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#4-development-environment-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD--%EC%88%98%EC%A0%95%EC%98%88%EC%A0%95)
-### 5. [팀 규칙](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#5-%ED%8C%80-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8--%EA%B7%9C%EC%B9%99)
-### 6. [업무 구분](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#6-project-work-division-%EC%97%85%EB%AC%B4-%EA%B5%AC%EB%B6%84--%EC%88%98%EC%A0%95%EC%98%88%EC%A0%95)
-### 7. [개발 기간](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#7-development-period-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EA%B0%84--%EC%88%98%EC%A0%95%EC%98%88%EC%A0%95)
-### 8. [주요 기능 소개](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#8-introducing-the-project-feature-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)
+### 1. [개요]
+### 2. [목적]
+### 3. [팀 소개]
+### 4. [개발 환경]
+### 5. [팀 규칙]
+### 6. [업무 구분]
+### 7. [개발 기간]
+### 8. [주요 기능 소개]
 
-![footer](https://capsule-render.vercel.app/api?type=transparent&text=프로젝트&animation=twinkling&&section=footer&size=15)
+![footer](https://capsule-render.vercel.app/api?type=transparent&text=WashPlan&animation=twinkling&&section=footer&size=15)
 
-## 1. Over view of the project (개요)
-- 우리의 프로젝트는 공포에 어울리는 새로운 MBTI와 공포 커뮤니티를 접목시킨 사이트를 만들었습니다.
-#### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
+## 1. 개요
+- 저희 팀이 만든 워시플랜 웹사이트는 무인세탁소를 빠르고 간단하게 예약할수 있는 사이트를 만들었습니다
 
-## 2. Goals of the project (목적)
-- 공포 MBTI를 통해 공감을 이끌고 서로의 경험을 공유하며 공감과 취미를 즐길 수 있게하여 공포의 접근성을 낮추고자 하였습니다.
-- MBTI를 통한 공포의 높은 접근성을 허물고 커뮤니티에서의 서로의 상호작용을 통해 공포를 부정적으로 보는 사람들도 쉽게 접근할 수 있도록 구성했습니다.
-#### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
+## 2. 목적
+- 무인세탁소를 이용할 때 효율적이고 편리하게 이용 가능하도록 설계
+- 불필요한 기다림과 시간제약 해소
 
-## 3. Team member (팀)
+## 3. 팀 소개
 <div align="center" display:"inline-block">
 <div>
 <a href="https://github.com/youngseok-1"><img src="https://github.com/user-attachments/assets/b2b48a3c-a03f-41ee-b9e3-b91a29257bc9" alt="조영석"></a>
     
-프로젝트 매니저 : 조영석
+![Static Badge](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%A1%B0%EC%98%81%EC%84%9D-orange)
 </div>
 
 
 <div>
 <a href="https://github.com/suwanpp"><img src="https://avatars.githubusercontent.com/u/177711372?v=4" alt="박수완"></a>
 
-데이터베이스 관리자 : 박수완
+![Static Badge](https://img.shields.io/badge/DB%EB%A7%A4%EB%8B%88%EC%A0%80-%EB%B0%95%EC%88%98%EC%99%84-red)
 
 </div>
 
 <div>
 <a href="https://github.com/soonbin2"><img src="https://github.com/user-attachments/assets/b9f735fd-d1cf-44e2-ada3-6d1d8eb81fe0" alt="황순빈"></a>
 
-형상관리자 : 황순빈
+![Static Badge](https://img.shields.io/badge/%ED%98%95%EC%84%B1%EA%B4%80%EB%A6%AC%EC%9E%90-%ED%99%A9%EC%88%9C%EB%B9%88-green)
 </div>
 
 </div>
 
-#### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
 
-## 4. Development environment (개발 환경)
+## 4.개발 환경
 
-### Front
+📚 기술 스택
 
-### Back-end
-- JAVA
+Frontend
 
-### Version & issue Management
-- Github
+	•React
+	•HTML5
+	•CSS3
+	•JavaScript
 
-### Collaboration Tools
-- Discord
-- Kakaotalk
-- Notion
+Backend
 
-### Designed
-- Figma
+	•Spring Boot
+	•Java
 
-### Database
-- MySQL
+Database
+
+	•MySQL
+
+Development Environment
+
+	•IntelliJ IDEA
+ <hr/>
+ 🛠️ 협업 툴
+
+Communication
+
+	•카카오톡
+	•디스코드
+
+Documentation & Planning
+
+	•노션
+	•피그마
+
+
+Version Control
+
+	•GitHub
 
 ### 사용 폰트
-[배달의민족 주아](http://font.woowahan.com/jua/)
+로고 폰트 : [Raleway](https://fonts.google.com/specimen/Raleway/)
 
-[SUIT 산스](https://sun.fo/suit/)
+NAV 폰트 : [Do Hyeon](https://fonts.google.com/specimen/Do+Hyeon/)
 
-[CAFE24 Ssurround air](https://fonts.cafe24.com/)
-
+MAIN 폰트[Gmarket Sans](https://corp.gmarket.com/fonts/)
 #### [목차로 이동](https://github.com/MergePing/NamHoJung?tab=readme-ov-file#%EB%AA%A9%EC%B0%A8)
 
 ## 5. 팀 가이드라인 & 규칙
