@@ -27,16 +27,9 @@
 <div>
 <a href="https://github.com/youngseok-1"><img src="https://github.com/user-attachments/assets/b2b48a3c-a03f-41ee-b9e3-b91a29257bc9" alt="조영석"></a>
     
-![Static Badge](https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%A1%B0%EC%98%81%EC%84%9D-yellow?style=for-the-badge&labelColor=black)
-
+프로젝트 매니저 : 조영석
 </div>
 
-<div>
-<a href="https://github.com/Pear1yCode"><img src="https://github.com/user-attachments/assets/b249f651-6270-4fad-b968-ef890ea476e5" alt="이호준"></a>
-
-![Static Badge](https://img.shields.io/badge/%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%9D%B4%ED%98%B8%EC%A4%80-%232B79E0?style=for-the-badge&labelColor=%23502BE0)
-
-</div>
 
 <div>
 <a href="https://github.com/manbeao"><img src="https://github.com/user-attachments/assets/f77dcc53-2e80-4646-b23e-30d3f6c7dc97" alt="이은서"></a>
@@ -48,8 +41,7 @@
 <div>
 <a href="https://github.com/soonbin2"><img src="https://github.com/user-attachments/assets/b9f735fd-d1cf-44e2-ada3-6d1d8eb81fe0" alt="황순빈"></a>
 
-![Static Badge](https://img.shields.io/badge/DB%20%EB%A7%A4%EB%8B%88%EC%A0%80-%ED%99%A9%EC%88%9C%EB%B9%88-%23C8D703?style=for-the-badge&labelColor=%23F50560)
-
+형상관리자 : 황순빈
 </div>
 
 </div>
