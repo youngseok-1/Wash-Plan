@@ -48,7 +48,7 @@
 
 
 ## 4.개발환경
-<h2><img src="book_icon.png" alt="Book Icon" style="width: 20px; vertical-align: middle;"> 기술 스택</h2>
+<h2>기술 스택</h2>
 <div>
     <h3>Frontend</h3>
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -70,33 +70,27 @@
 
 <div>
     <h3>Development Environment</h3>
-    
+    <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
 </div>
 
 <hr/>
 
-<h2><img src="tools_icon.png" alt="Tools Icon" style="width: 20px; vertical-align: middle;"> 협업 툴</h2>
+<h2>협업 툴</h2>
 <div>
     <h3>Communication</h3>
-    <ul>
-        <li><img src="kakao_icon.png" alt="Kakao Icon" style="width: 20px; vertical-align: middle;"> 카카오톡</li>
-        <li><img src="discord_icon.png" alt="Discord Icon" style="width: 20px; vertical-align: middle;"> 디스코드</li>
-    </ul>
+        <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"> 
+        <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
 </div>
 
 <div>
     <h3>Documentation & Planning</h3>
-    <ul>
-        <li><img src="notion_icon.png" alt="Notion Icon" style="width: 20px; vertical-align: middle;"> 노션</li>
-        <li><img src="figma_icon.png" alt="Figma Icon" style="width: 20px; vertical-align: middle;"> 피그마</li>
-    </ul>
+        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+        <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 <div>
     <h3>Version Control</h3>
-    <ul>
-        <li><img src="github_icon.png" alt="GitHub Icon" style="width: 20px; vertical-align: middle;"> GitHub</li>
-    </ul>
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 ### 사용 폰트
