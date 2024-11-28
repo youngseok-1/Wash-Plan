@@ -1,4 +1,6 @@
-
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=PPal-Ajo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wash%20Plan&descAlignY=60&descAlign=62"/>
+</p>
 # Wash Plan Project Description
 
 ## 목차
@@ -49,34 +51,26 @@
 <h2><img src="book_icon.png" alt="Book Icon" style="width: 20px; vertical-align: middle;"> 기술 스택</h2>
 <div>
     <h3>Frontend</h3>
-    <ul>
-        <li><img src="react_icon.png" alt="React Icon" style="width: 20px; vertical-align: middle;"> React</li>
-        <li><img src="html_icon.png" alt="HTML5 Icon" style="width: 20px; vertical-align: middle;"> HTML5</li>
-        <li><img src="css_icon.png" alt="CSS3 Icon" style="width: 20px; vertical-align: middle;"> CSS3</li>
-        <li><img src="javascript_icon.png" alt="JavaScript Icon" style="width: 20px; vertical-align: middle;"> JavaScript</li>
-    </ul>
+        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></ul>
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
 <div>
-    <h3>Backend</h3>
-    <ul>
-        <li><img src="springboot_icon.png" alt="Spring Boot Icon" style="width: 20px; vertical-align: middle;"> Spring Boot</li>
-        <li><img src="java_icon.png" alt="Java Icon" style="width: 20px; vertical-align: middle;"> Java</li>
-    </ul>
+    <h3>Backend</h3>  
+        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 </div>
 
 <div>
     <h3>Database</h3>
-    <ul>
-        <li><img src="mysql_icon.png" alt="MySQL Icon" style="width: 20px; vertical-align: middle;"> MySQL</li>
-    </ul>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
 <div>
     <h3>Development Environment</h3>
-    <ul>
-        <li><img src="intellij_icon.png" alt="IntelliJ Icon" style="width: 20px; vertical-align: middle;"> IntelliJ IDEA</li>
-    </ul>
+    
 </div>
 
 <hr/>
