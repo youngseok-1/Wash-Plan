@@ -52,7 +52,8 @@
 <div>
 <a href="https://github.com/soonbin2"><img src="https://github.com/user-attachments/assets/b9f735fd-d1cf-44e2-ada3-6d1d8eb81fe0" alt="황순빈"></a>
 
-![Static Badge](https://img.shields.io/badge/%ED%98%95%EC%84%B1%EA%B4%80%EB%A6%AC%EC%9E%90-%ED%99%A9%EC%88%9C%EB%B9%88-green)
+![Static Badge](https://img.shields.io/badge/%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC%EC%9E%90-%ED%99%A9%EC%88%9C%EB%B9%88-green
+)
 </div>
 
 </div>
