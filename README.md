@@ -105,7 +105,7 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 
 
-## 6. 업무 구분
+## 6.업무구분
 ### 조영석
 
 
@@ -117,7 +117,7 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 
 
-## 7.개발 기간
+## 7.개발기간
 ### 전체 개발 기간
 24-11-20 ~ 
 
@@ -126,7 +126,7 @@ MAIN 폰트 : [Gmarket Sans](https://corp.gmarket.com/fonts/)
 
 
 
-## 8.주요 기능 소개
+## 8.주요기능소개
 ### **1. 회원 관리**
 
 - **회원가입 및 로그인**
