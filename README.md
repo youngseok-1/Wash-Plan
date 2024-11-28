@@ -7,10 +7,10 @@
 ### 2. [목적](#2-목적)
 ### 3. [팀](#3-팀)
 ### 4. [개발환경](#4-개발환경)
-### 5. [팀 규칙]
-### 6. [업무 구분]
-### 7. [개발 기간]
-### 8. [주요 기능 소개]
+### 5. [규칙](#5-규칙)
+### 6. [업무구분](#6-업무구분)
+### 7. [개발기간](#7-개발기간)
+### 8. [주요기능소개](#8-주요기능소개)
 
 ![footer](https://capsule-render.vercel.app/api?type=transparent&text=WashPlan&animation=twinkling&&section=footer&size=15)
 
