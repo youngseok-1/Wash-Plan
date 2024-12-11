@@ -6,3 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Ignore application.yml in the resources directory
+src/main/resources/application.yml
